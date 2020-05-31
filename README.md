@@ -1,2 +1,2 @@
 # OSD-ScriptTemplate
-A script template for operating system deployment within MDT and or SCCM. Has logging and error handling for better troubleshooting of scripts during deployment.
+A script template for operating system deployment within MDT and or SCCM. Has logging and error handling for better troubleshooting of scripts during deployment. You can easily add additional functions, modules, and tools by adding them to the folder structure. The functions will be dot sourced automatically. Additional modules will get imported automatically. Now more powerful scripts can be created in less time and allow operating system deployment to be more stable!
